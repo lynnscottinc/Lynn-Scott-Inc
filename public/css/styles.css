@@ -611,7 +611,7 @@ main, .footer { position: relative; z-index: 3; }
 
 /* Smaller, lighter name preceding the number */
 .contact-name {
-  font-size: clamp(0.875rem, 1.4vw, 1.25rem);
+  font-size: clamp(0.875rem, 1.4vw, 2 rem);
   font-weight: 500;
   letter-spacing: 0.04em;
   text-transform: uppercase;
