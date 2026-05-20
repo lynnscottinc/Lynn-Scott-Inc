@@ -1,0 +1,8 @@
+This directory exists so the deployment platform (framework configured
+as "Next.js") finds an expected `.next` output directory.
+
+This is actually a static Express site. Running `npm run build` (build.js)
+populates this directory with the contents of `public/`.
+
+Do not delete this file — it keeps the directory present in git even
+before a build runs.
