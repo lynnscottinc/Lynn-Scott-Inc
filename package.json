@@ -4,6 +4,7 @@
   "description": "Lynn Scott Inc. — Web Engineering for Local Business",
   "main": "server.js",
   "scripts": {
+    "build": "echo \"No build step required — static Express site\"",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
