@@ -9,7 +9,9 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.14"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
